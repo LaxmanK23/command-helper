@@ -14,7 +14,7 @@ Tags: Provide relevant SEO-friendly tags with , separate
 Feature Image: Generate an AI image relevant to the blog
 Internal & External Links: Suggest where to include links for better SEO
 SEO Enhancements: Ensure keyword placement, meta descriptions, headings optimization, and image alt text
-Link Length - less than 60 words: our site domain is (https://healthkendra.in/)(with lowercase join by - like"healthy-eating-tips-for-better-immunity")
+Link Length - less than 60 words: our site domain is  (https://healthkendra.in/)(use Focus Keyword in the URL.)(with lowercase join by - like"healthy-eating-tips-for-better-immunity")
 Category - Give categories of blog as well with , separtae
 
 Make ensure go through every point
