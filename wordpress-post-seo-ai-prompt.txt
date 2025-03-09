@@ -15,3 +15,5 @@ Feature Image: Generate an AI image relevant to the blog
 Internal & External Links: Suggest where to include links for better SEO
 SEO Enhancements: Ensure keyword placement, meta descriptions, headings optimization, and image alt text
 Link Length - less than 60 words: our site domain is (https://healthkendra.in/)(with lowercase join by - like"healthy-eating-tips-for-better-immunity")
+
+Make ensure go through every point
