@@ -1,13 +1,17 @@
 Write an SEO-optimized blog post on: [INSERT TOPIC]
 
 Requirements:
-
+Title: Focus Keyword used at the beginning of SEO title.
+        title has a positive or a negative sentiment.
+        title contains 1 power word(s). Booyah!
+        used a number in your SEO title.
+Focus Keyword: Give one focus keyword which should also be in title
 Word Count: At least 800 words
 Structure: Include a clear introduction, well-organized sections, and a conclusion
 FAQs Section: Cover Why, What, How, When related to the topic
-Focus Keyword: Give a focus keyword
 Excerpt: A concise and engaging summary (around 50-60 words)
 Tags: Provide relevant SEO-friendly tags
 Feature Image: Generate an AI image relevant to the blog
 Internal & External Links: Suggest where to include links for better SEO
 SEO Enhancements: Ensure keyword placement, meta descriptions, headings optimization, and image alt text
+Link Length - less than 60 words: our site domain is (https://healthkendra.in/)(with lowercase join by - like"healthy-eating-tips-for-better-immunity")
